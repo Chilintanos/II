@@ -1,0 +1,10 @@
+model_annotation:
+  max_length: 50
+  min_length: 10
+  top_k: 50
+  top_p: 0.55
+  temperature: 1.0
+  num_return_sequences: 1
+  no_repeat_ngram_size: 2
+  num_beams: 5
+  early_stopping: true
